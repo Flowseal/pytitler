@@ -6,6 +6,11 @@ Developed by Flowseal (c) 2022
 
 ## How To Use
 
+Installing
+```
+pip3 install pytitler
+```
+
 One string title
 ```python
 from pytitler import pytitler
@@ -66,3 +71,14 @@ pytitler.print_title(banner, (TitleColors.BLURPLE, (255, 255, 255)), TitleFill.D
 ## Result
 ![](./images/calc.png)
 ![](./images/demon.png)
+
+## Gradient types
+**Static**: color a text with a static color
+
+**Vertical**: fade a text vertically
+
+**Horizontal**: fade a text horizontally
+
+**Diagonal**: fade a text diagonally
+
+**DiagonalBackwards**: fade a text diagonally but backwards
