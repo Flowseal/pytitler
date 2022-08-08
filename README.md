@@ -70,6 +70,7 @@ pytitler.print_title(banner, (TitleColors.BLURPLE, (255, 255, 255)), TitleFill.D
 
 ## Result
 ![](./images/calc.png)
+
 ![](./images/demon.png)
 
 ## Gradient types
