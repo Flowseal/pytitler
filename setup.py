@@ -7,7 +7,7 @@ here = os.path.abspath(os.path.dirname(__file__))
 with codecs.open(os.path.join(here, "README.md"), encoding="utf-8") as fh:
     long_description = "\n" + fh.read()
 
-VERSION = '1.0.0'
+VERSION = '1.0.2'
 DESCRIPTION = 'Easy printing titles'
 LONG_DESCRIPTION = 'A package that allows to easily make pretty title. Supports gradient and static colors, centerizing'
 
